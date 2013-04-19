@@ -1,0 +1,4 @@
+/home/russel/_dev/py/cat_dv/catdv_work2archive/work/filename.mov
+/home/russel/_dev/py/cat_dv/catdv_work2archive/work/filename1.mov
+/home/russel/_dev/py/cat_dv/catdv_work2archive/work/filename2.mov
+/home/russel/_dev/py/cat_dv/catdv_work2archive/work/level1/filename2.mov
